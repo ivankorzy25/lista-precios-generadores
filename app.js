@@ -74,9 +74,22 @@ function saveData() {
 }
 
 // ============= EVENT LISTENERS =============
+let listenersConfigured = false;
+
 function setupEventListeners() {
+    if (listenersConfigured) {
+        console.log('Event listeners ya configurados, saltando...');
+        return;
+    }
+
+    console.log('Configurando event listeners por primera vez...');
+
     // Login
-    document.getElementById('loginForm').addEventListener('submit', handleLogin);
+    const loginForm = document.getElementById('loginForm');
+    if (loginForm) {
+        loginForm.addEventListener('submit', handleLogin);
+        console.log('Listener de login agregado');
+    }
     document.getElementById('logoutBtn').addEventListener('click', handleLogout);
 
     // Búsqueda
@@ -112,6 +125,9 @@ function setupEventListeners() {
 
     // Family management
     document.getElementById('addFamilyBtn').addEventListener('click', handleAddFamily);
+
+    listenersConfigured = true;
+    console.log('Todos los event listeners configurados correctamente');
 }
 
 // ============= AUTENTICACIÓN =============
