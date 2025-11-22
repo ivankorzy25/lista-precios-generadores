@@ -19,9 +19,14 @@ let appState = {
 };
 
 // ============= INICIALIZACIÓN =============
+console.log('App.js cargado correctamente');
+
 document.addEventListener('DOMContentLoaded', async () => {
+    console.log('DOM cargado, iniciando aplicación...');
     await loadData();
+    console.log('Datos cargados:', appState.productos.length, 'productos');
     setupEventListeners();
+    console.log('Event listeners configurados');
     checkLoginStatus();
 });
 
@@ -121,15 +126,21 @@ function checkLoginStatus() {
 }
 
 function handleLogin(e) {
+    console.log('handleLogin llamado');
     e.preventDefault();
     const username = document.getElementById('username').value;
     const password = document.getElementById('password').value;
 
+    console.log('Intentando login con:', username, '/', password);
+    console.log('Esperado:', CONFIG.LOGIN.username, '/', CONFIG.LOGIN.password);
+
     if (username === CONFIG.LOGIN.username && password === CONFIG.LOGIN.password) {
+        console.log('Login exitoso!');
         appState.isLoggedIn = true;
         sessionStorage.setItem('isLoggedIn', 'true');
         showMainScreen();
     } else {
+        console.log('Login fallido');
         showError('loginError', 'Usuario o contraseña incorrectos');
     }
 }
