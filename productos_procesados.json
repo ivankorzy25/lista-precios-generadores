@@ -1,0 +1,3498 @@
+{
+  "metadata": {
+    "empresa": "GENERADORES EN LÍNEA",
+    "website": "www.generadores.ar",
+    "email": "info@generadores.ar",
+    "telefono": "+54 11 3956-3099",
+    "fecha_actualizacion": "Noviembre 2025",
+    "total_productos": 140,
+    "total_familias": 29
+  },
+  "familias": [
+    "Generadores Nafteros 3000 RPM",
+    "Generadores Diesel 3000 RPM",
+    "Generadores Diesel Ultra Silent 1500 RPM",
+    "Generadores Nafteros Silent Inverter",
+    "Generadores Diesel Abierto 1500 RPM",
+    "Generadores Diesel Silent 1500 RPM",
+    "Generadores Cummins Línea YNS",
+    "Generadores Cummins Línea CS",
+    "Generadores Gas Residenciales Insonorizados - Dólar Billete",
+    "Generadores Gas Residenciales Insonorizados - Dólar BNA",
+    "Generadores Gas Industriales Insonorizados Pramac - Dólar Billete",
+    "Generadores Gas Comerciales Insonorizados - Dólar Billete",
+    "Generadores Gas Industriales Insonorizados Logus - Dólar BNA",
+    "Motobombas Nafteras y Diesel Autocebantes",
+    "Motobomba Naftera para Agua Sucia",
+    "Motobomba Naftera de Alta Presión",
+    "Hidrolavadora Profesional con Motor a Explosión",
+    "Motores Nafteros",
+    "Motores Nafteros con Reductor",
+    "Motores Diesel",
+    "Atomizador Mochila Fumigador",
+    "Motocultivador Nafta",
+    "Motocultivador Diesel",
+    "Implementos Logus",
+    "Chipeadora",
+    "Compresores a Tornillo",
+    "Accesorios Compresores a Tornillo",
+    "Construcción",
+    "Torres de Iluminación Atlas Copco"
+  ],
+  "productos": [
+    {
+      "id": "Generadores_Nafteros_3000_RPM_Logus_GL3300AM",
+      "familia": "Generadores Nafteros 3000 RPM",
+      "modelo": "Logus GL3300AM",
+      "especificaciones": {
+        "potencia_max": "3000 W",
+        "tension": "220V-12V/AVR",
+        "motor": "6.5 HP",
+        "arranque": "Manual",
+        "peso": "46.5 Kg"
+      },
+      "precios": {
+        "precio_lista": 290,
+        "precio_con_bonificacion": 217.5,
+        "costo_compra_sin_iva": 200.1,
+        "costo_compra_con_iva": 221.11
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_3000_RPM_Logus_GL3300E",
+      "familia": "Generadores Nafteros 3000 RPM",
+      "modelo": "Logus GL3300E",
+      "especificaciones": {
+        "potencia_max": "3000 W",
+        "tension": "220V-12V/AVR",
+        "motor": "6.5 HP",
+        "arranque": "Eléctrico",
+        "peso": "50 kg"
+      },
+      "precios": {
+        "precio_lista": 355,
+        "precio_con_bonificacion": 266.25,
+        "costo_compra_sin_iva": 244.95,
+        "costo_compra_con_iva": 270.67
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_3000_RPM_Logus_GE3300E_PREMIUM",
+      "familia": "Generadores Nafteros 3000 RPM",
+      "modelo": "Logus GE3300E PREMIUM",
+      "especificaciones": {
+        "potencia_max": "3000 W",
+        "tension": "220V-12V/AVR",
+        "motor": "6.5 HP",
+        "arranque": "Eléctrico",
+        "peso": "50 kg"
+      },
+      "precios": {
+        "precio_lista": 391,
+        "precio_con_bonificacion": 293.25,
+        "costo_compra_sin_iva": 269.79,
+        "costo_compra_con_iva": 298.12
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_3000_RPM_Logus_GL5500E_PREMIUM",
+      "familia": "Generadores Nafteros 3000 RPM",
+      "modelo": "Logus GL5500E PREMIUM",
+      "especificaciones": {
+        "potencia_max": "5500 W",
+        "tension": "220V-12V/AVR",
+        "motor": "13 HP",
+        "arranque": "Eléctrico",
+        "peso": "83 Kg"
+      },
+      "precios": {
+        "precio_lista": 768,
+        "precio_con_bonificacion": 576.0,
+        "costo_compra_sin_iva": 529.92,
+        "costo_compra_con_iva": 585.56
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_3000_RPM_Logus_GL5500E_ATS_C/TTA",
+      "familia": "Generadores Nafteros 3000 RPM",
+      "modelo": "Logus GL5500E ATS C/TTA",
+      "especificaciones": {
+        "potencia_max": "5500 W",
+        "tension": "220V-12V/AVR",
+        "motor": "13 HP",
+        "arranque": "Eléctrico",
+        "peso": "83 Kg"
+      },
+      "precios": {
+        "precio_lista": 884,
+        "precio_con_bonificacion": 663.0,
+        "costo_compra_sin_iva": 609.96,
+        "costo_compra_con_iva": 674.01
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_3000_RPM_Logus_GL6500E_PREMIUM",
+      "familia": "Generadores Nafteros 3000 RPM",
+      "modelo": "Logus GL6500E PREMIUM",
+      "especificaciones": {
+        "potencia_max": "6500 W",
+        "tension": "220V-12V/AVR",
+        "motor": "15 HP",
+        "arranque": "Eléctrico",
+        "peso": "83 Kg"
+      },
+      "precios": {
+        "precio_lista": 797,
+        "precio_con_bonificacion": 597.75,
+        "costo_compra_sin_iva": 549.93,
+        "costo_compra_con_iva": 607.67
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_3000_RPM_Logus_GL7500E_ATS_C/TTA",
+      "familia": "Generadores Nafteros 3000 RPM",
+      "modelo": "Logus GL7500E ATS C/TTA",
+      "especificaciones": {
+        "potencia_max": "7500 W",
+        "tension": "220V/AVR",
+        "motor": "16HP",
+        "arranque": "Eléctrico",
+        "peso": "85 Kg"
+      },
+      "precios": {
+        "precio_lista": 986,
+        "precio_con_bonificacion": 739.5,
+        "costo_compra_sin_iva": 680.34,
+        "costo_compra_con_iva": 751.78
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_3000_RPM_Logus_GL8500E_PREMIUM",
+      "familia": "Generadores Nafteros 3000 RPM",
+      "modelo": "Logus GL8500E PREMIUM",
+      "especificaciones": {
+        "potencia_max": "8500 W",
+        "tension": "220V/AVR",
+        "motor": "16HP",
+        "arranque": "Eléctrico",
+        "peso": "85 Kg"
+      },
+      "precios": {
+        "precio_lista": 870,
+        "precio_con_bonificacion": 652.5,
+        "costo_compra_sin_iva": 600.3,
+        "costo_compra_con_iva": 663.33
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_3000_RPM_Logus_GL8500E3_PREMIUM",
+      "familia": "Generadores Nafteros 3000 RPM",
+      "modelo": "Logus GL8500E3 PREMIUM",
+      "especificaciones": {
+        "potencia_max": "8.5 Kva",
+        "tension": "380V/AVR",
+        "motor": "16HP",
+        "arranque": "Eléctrico",
+        "peso": "85 Kg"
+      },
+      "precios": {
+        "precio_lista": 928,
+        "precio_con_bonificacion": 696.0,
+        "costo_compra_sin_iva": 640.32,
+        "costo_compra_con_iva": 707.55
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_3000_RPM_Logus_GL6500E_PREMIUM_GAS",
+      "familia": "Generadores Nafteros 3000 RPM",
+      "modelo": "Logus GL6500E PREMIUM GAS",
+      "especificaciones": {
+        "potencia_max": "6500 W - GAS",
+        "tension": "220V/AVR",
+        "motor": "15 HP",
+        "arranque": "Eléctrico",
+        "peso": "85 Kg"
+      },
+      "precios": {
+        "precio_lista": 855,
+        "precio_con_bonificacion": 641.25,
+        "costo_compra_sin_iva": 589.95,
+        "costo_compra_con_iva": 651.89
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_3000_RPM_Logus_GL8500E_PREMIUM_GAS",
+      "familia": "Generadores Nafteros 3000 RPM",
+      "modelo": "Logus GL8500E PREMIUM GAS",
+      "especificaciones": {
+        "potencia_max": "8500 W - GAS",
+        "tension": "220V/AVR",
+        "motor": "16 HP",
+        "arranque": "Eléctrico",
+        "peso": "85 Kg"
+      },
+      "precios": {
+        "precio_lista": 957,
+        "precio_con_bonificacion": 717.75,
+        "costo_compra_sin_iva": 660.33,
+        "costo_compra_con_iva": 729.66
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_3000_RPM_Logus_GL12E",
+      "familia": "Generadores Nafteros 3000 RPM",
+      "modelo": "Logus GL12E",
+      "especificaciones": {
+        "potencia_max": "10000 W",
+        "tension": "220V/AVR",
+        "motor": "20 HP",
+        "arranque": "Eléctrico",
+        "peso": "130 Kg"
+      },
+      "precios": {
+        "precio_lista": 2406,
+        "precio_con_bonificacion": 1804.5,
+        "costo_compra_sin_iva": 1660.14,
+        "costo_compra_con_iva": 1834.45
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_3000_RPM_Logus_GL12E3",
+      "familia": "Generadores Nafteros 3000 RPM",
+      "modelo": "Logus GL12E3",
+      "especificaciones": {
+        "potencia_max": "10 Kva",
+        "tension": "380V/AVR",
+        "motor": "20 HP",
+        "arranque": "Eléctrico",
+        "peso": "130 Kg"
+      },
+      "precios": {
+        "precio_lista": 2449,
+        "precio_con_bonificacion": 1836.75,
+        "costo_compra_sin_iva": 1689.81,
+        "costo_compra_con_iva": 1867.24
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_3000_RPM_Kipor_KGE12E_HASTA_AGOTAR_STOCK",
+      "familia": "Generadores Nafteros 3000 RPM",
+      "modelo": "Kipor KGE12E HASTA AGOTAR STOCK",
+      "especificaciones": {
+        "potencia_max": "10000 W",
+        "tension": "220V/AVR",
+        "motor": "20 HP",
+        "arranque": "Eléctrico",
+        "peso": "135 Kg"
+      },
+      "precios": {
+        "precio_lista": 2406,
+        "precio_con_bonificacion": 1804.5,
+        "costo_compra_sin_iva": 1660.14,
+        "costo_compra_con_iva": 1834.45
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_3000_RPM_Kipor_KDE6500T_SILENT",
+      "familia": "Generadores Diesel 3000 RPM",
+      "modelo": "Kipor KDE6500T SILENT",
+      "especificaciones": {
+        "potencia_max": "6000 W",
+        "tension": "220V-12V/AVR",
+        "motor": "9 HP",
+        "arranque": "Eléctrico",
+        "peso": "177 Kg"
+      },
+      "precios": {
+        "precio_lista": 1594,
+        "precio_con_bonificacion": 1195.5,
+        "costo_compra_sin_iva": 1099.86,
+        "costo_compra_con_iva": 1215.35
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_3000_RPM_Kipor_KDE6500T3_SILENT",
+      "familia": "Generadores Diesel 3000 RPM",
+      "modelo": "Kipor KDE6500T3 SILENT",
+      "especificaciones": {
+        "potencia_max": "6 Kva",
+        "tension": "380-220V/AVR",
+        "motor": "9 HP",
+        "arranque": "Eléctrico",
+        "peso": "171 Kg"
+      },
+      "precios": {
+        "precio_lista": 1667,
+        "precio_con_bonificacion": 1250.25,
+        "costo_compra_sin_iva": 1150.23,
+        "costo_compra_con_iva": 1271.0
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_3000_RPM_Logus_GLD9500ED_DUAL",
+      "familia": "Generadores Diesel 3000 RPM",
+      "modelo": "Logus GLD9500ED DUAL",
+      "especificaciones": {
+        "potencia_max": "9000 W DUAL",
+        "tension": "220-380V",
+        "motor": "16 HP",
+        "arranque": "Eléctrico",
+        "peso": "190 Kg"
+      },
+      "precios": {
+        "precio_lista": 1957,
+        "precio_con_bonificacion": 1467.75,
+        "costo_compra_sin_iva": 1350.33,
+        "costo_compra_con_iva": 1492.11
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_3000_RPM_Kipor_KDE12EAF",
+      "familia": "Generadores Diesel 3000 RPM",
+      "modelo": "Kipor KDE12EAF",
+      "especificaciones": {
+        "potencia_max": "10 Kva",
+        "tension": "220V/AVR",
+        "motor": "15 HP",
+        "arranque": "Eléctrico",
+        "peso": "235 Kg"
+      },
+      "precios": {
+        "precio_lista": 4130,
+        "precio_con_bonificacion": 3097.5,
+        "costo_compra_sin_iva": 2849.7,
+        "costo_compra_con_iva": 3148.92
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_3000_RPM_Kipor_KDE12EAF3",
+      "familia": "Generadores Diesel 3000 RPM",
+      "modelo": "Kipor KDE12EAF3",
+      "especificaciones": {
+        "potencia_max": "10 Kva",
+        "tension": "380-220V/AVR",
+        "motor": "15 HP",
+        "arranque": "Eléctrico",
+        "peso": "235 Kg"
+      },
+      "precios": {
+        "precio_lista": 4275,
+        "precio_con_bonificacion": 3206.25,
+        "costo_compra_sin_iva": 2949.75,
+        "costo_compra_con_iva": 3259.47
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_3000_RPM_Kipor_KDE12STAF_SILENT",
+      "familia": "Generadores Diesel 3000 RPM",
+      "modelo": "Kipor KDE12STAF SILENT",
+      "especificaciones": {
+        "potencia_max": "10000 W",
+        "tension": "220V/AVR",
+        "motor": "15 HP",
+        "arranque": "Eléctrico",
+        "peso": "345 Kg"
+      },
+      "precios": {
+        "precio_lista": 5652,
+        "precio_con_bonificacion": 4239.0,
+        "costo_compra_sin_iva": 3899.88,
+        "costo_compra_con_iva": 4309.37
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_3000_RPM_Kipor_KDE12STAF3_SILENT",
+      "familia": "Generadores Diesel 3000 RPM",
+      "modelo": "Kipor KDE12STAF3 SILENT",
+      "especificaciones": {
+        "potencia_max": "10 Kva",
+        "tension": "380-220V/AVR",
+        "motor": "15 HP",
+        "arranque": "Eléctrico",
+        "peso": "345 Kg"
+      },
+      "precios": {
+        "precio_lista": 5797,
+        "precio_con_bonificacion": 4347.75,
+        "costo_compra_sin_iva": 3999.93,
+        "costo_compra_con_iva": 4419.92
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_3000_RPM_Kipor_KDE19STA3_SILENT",
+      "familia": "Generadores Diesel 3000 RPM",
+      "modelo": "Kipor KDE19STA3 SILENT",
+      "especificaciones": {
+        "potencia_max": "18.5 Kva",
+        "tension": "380-220V/AVR",
+        "motor": "25 HP 1500RPM",
+        "arranque": "Eléctrico",
+        "peso": "600 Kg"
+      },
+      "precios": {
+        "precio_lista": 8522,
+        "precio_con_bonificacion": 6391.5,
+        "costo_compra_sin_iva": 5880.18,
+        "costo_compra_con_iva": 6497.6
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_3000_RPM_Kipor_KDE19STA_SILENT",
+      "familia": "Generadores Diesel 3000 RPM",
+      "modelo": "Kipor KDE19STA SILENT",
+      "especificaciones": {
+        "potencia_max": "14000 W",
+        "tension": "220V/AVR",
+        "motor": "25 HP 1500RPM",
+        "arranque": "Eléctrico",
+        "peso": "600 Kg"
+      },
+      "precios": {
+        "precio_lista": 8522,
+        "precio_con_bonificacion": 6391.5,
+        "costo_compra_sin_iva": 5880.18,
+        "costo_compra_con_iva": 6497.6
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_Ultra_Silent_1500_RPM_KDE20SS3_ULTRA_SILENT",
+      "familia": "Generadores Diesel Ultra Silent 1500 RPM",
+      "modelo": "KDE20SS3 ULTRA SILENT",
+      "especificaciones": {
+        "potencia_max": "18 Kva",
+        "tension": "380-220V/AVR",
+        "motor": "4 cilindros",
+        "arranque": "Eléctrico",
+        "peso": "730 Kg"
+      },
+      "precios": {
+        "precio_lista": 9171,
+        "precio_con_bonificacion": 7336.8,
+        "costo_compra_sin_iva": 6749.86,
+        "costo_compra_con_iva": 7458.59
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_Ultra_Silent_1500_RPM_KDE30SS3_ULTRA_SILENT",
+      "familia": "Generadores Diesel Ultra Silent 1500 RPM",
+      "modelo": "KDE30SS3 ULTRA SILENT",
+      "especificaciones": {
+        "potencia_max": "26 Kva",
+        "tension": "380-220V/AVR",
+        "motor": "4 cilindros",
+        "arranque": "Eléctrico",
+        "peso": "850 Kg"
+      },
+      "precios": {
+        "precio_lista": 12228,
+        "precio_con_bonificacion": 9782.4,
+        "costo_compra_sin_iva": 8999.81,
+        "costo_compra_con_iva": 9944.79
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_Silent_Inverter_Logus_GI1000_SILENT",
+      "familia": "Generadores Nafteros Silent Inverter",
+      "modelo": "Logus GI1000 SILENT",
+      "especificaciones": {
+        "potencia_max": "1000 Wts",
+        "tension": "220 V",
+        "motor": "1.5 HP",
+        "arranque": "Manual",
+        "peso": "14 Kg"
+      },
+      "precios": {
+        "precio_lista": 435,
+        "precio_con_bonificacion": 326.25,
+        "costo_compra_sin_iva": 300.15,
+        "costo_compra_con_iva": 331.67
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_Silent_Inverter_Logus_GI2000_SILENT",
+      "familia": "Generadores Nafteros Silent Inverter",
+      "modelo": "Logus GI2000 SILENT",
+      "especificaciones": {
+        "potencia_max": "2000 Wts",
+        "tension": "220 V",
+        "motor": "3 HP",
+        "arranque": "Manual",
+        "peso": "22 Kg"
+      },
+      "precios": {
+        "precio_lista": 507,
+        "precio_con_bonificacion": 380.25,
+        "costo_compra_sin_iva": 349.83,
+        "costo_compra_con_iva": 386.56
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_Silent_Inverter_Logus_GI4500_SILENT",
+      "familia": "Generadores Nafteros Silent Inverter",
+      "modelo": "Logus GI4500 SILENT",
+      "especificaciones": {
+        "potencia_max": "4500 Wts",
+        "tension": "220 V",
+        "motor": "6 HP",
+        "arranque": "Manual",
+        "peso": "45 Kg"
+      },
+      "precios": {
+        "precio_lista": 870,
+        "precio_con_bonificacion": 652.5,
+        "costo_compra_sin_iva": 600.3,
+        "costo_compra_con_iva": 663.33
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_Silent_Inverter_Logus_GI4500E_SILENT",
+      "familia": "Generadores Nafteros Silent Inverter",
+      "modelo": "Logus GI4500E SILENT",
+      "especificaciones": {
+        "potencia_max": "4500 Wts",
+        "tension": "220 V",
+        "motor": "6 HP",
+        "arranque": "Eléctrico",
+        "peso": "45 Kg"
+      },
+      "precios": {
+        "precio_lista": 1014,
+        "precio_con_bonificacion": 760.5,
+        "costo_compra_sin_iva": 699.66,
+        "costo_compra_con_iva": 773.12
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Nafteros_Silent_Inverter_Logus_GI5500_SILENT",
+      "familia": "Generadores Nafteros Silent Inverter",
+      "modelo": "Logus GI5500 SILENT",
+      "especificaciones": {
+        "potencia_max": "5500 Wts",
+        "tension": "220 V",
+        "motor": "7 HP",
+        "arranque": "Eléctrico",
+        "peso": "48 Kg"
+      },
+      "precios": {
+        "precio_lista": 1268,
+        "precio_con_bonificacion": 951.0,
+        "costo_compra_sin_iva": 874.92,
+        "costo_compra_con_iva": 966.79
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_Abierto_1500_RPM_LOGUS_21BR",
+      "familia": "Generadores Diesel Abierto 1500 RPM",
+      "modelo": "LOGUS 21BR",
+      "especificaciones": {
+        "potencia_max": "21 KVA",
+        "tension": "380/220",
+        "motor": "495D 40HP - 4 cil - 1500 RPM",
+        "peso": "780 KG"
+      },
+      "precios": {
+        "precio_lista": 5707,
+        "precio_con_bonificacion": 4565.6,
+        "costo_compra_sin_iva": 4200.35,
+        "costo_compra_con_iva": 4641.39
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_Abierto_1500_RPM_LOGUS_41BR",
+      "familia": "Generadores Diesel Abierto 1500 RPM",
+      "modelo": "LOGUS 41BR",
+      "especificaciones": {
+        "potencia_max": "41 KVA",
+        "tension": "380/220",
+        "motor": "4100ZD 54HP - 4 cilTD -1500 RPM",
+        "peso": "900 KG"
+      },
+      "precios": {
+        "precio_lista": 7880,
+        "precio_con_bonificacion": 6304.0,
+        "costo_compra_sin_iva": 5799.68,
+        "costo_compra_con_iva": 6408.65
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_Abierto_1500_RPM_LOGUS_69BR",
+      "familia": "Generadores Diesel Abierto 1500 RPM",
+      "modelo": "LOGUS 69BR",
+      "especificaciones": {
+        "potencia_max": "69 KVA",
+        "tension": "380/220",
+        "motor": "R4105ZD 76HP - 4 cilTD -1500 RPM",
+        "peso": "970 KG"
+      },
+      "precios": {
+        "precio_lista": 8560,
+        "precio_con_bonificacion": 6848.0,
+        "costo_compra_sin_iva": 6300.16,
+        "costo_compra_con_iva": 6961.68
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_Abierto_1500_RPM_LOGUS_125BR",
+      "familia": "Generadores Diesel Abierto 1500 RPM",
+      "modelo": "LOGUS 125BR",
+      "especificaciones": {
+        "potencia_max": "125 KVA",
+        "tension": "380/220",
+        "motor": "R6105ZLD 150HP - 6 cilTD 1500 RPM",
+        "peso": "1350 KG"
+      },
+      "precios": {
+        "precio_lista": 12500,
+        "precio_con_bonificacion": 10000.0,
+        "costo_compra_sin_iva": 9200.0,
+        "costo_compra_con_iva": 10166.0
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_Silent_1500_RPM_LOGUS_21BR",
+      "familia": "Generadores Diesel Silent 1500 RPM",
+      "modelo": "LOGUS 21BR",
+      "especificaciones": {
+        "potencia_max": "21 KVA",
+        "tension": "380/220",
+        "motor": "490D 40HP - 4 cil - 1500 RPM",
+        "peso": "1090 Kg"
+      },
+      "precios": {
+        "precio_lista": 7717,
+        "precio_con_bonificacion": 6173.6,
+        "costo_compra_sin_iva": 5679.71,
+        "costo_compra_con_iva": 6276.08
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_Silent_1500_RPM_LOGUS_41BR",
+      "familia": "Generadores Diesel Silent 1500 RPM",
+      "modelo": "LOGUS 41BR",
+      "especificaciones": {
+        "potencia_max": "41 KVA",
+        "tension": "380/220",
+        "motor": "4100ZD 54HP - 4 cilTD -1500 RPM",
+        "peso": "1230 Kg"
+      },
+      "precios": {
+        "precio_lista": 10870,
+        "precio_con_bonificacion": 8696.0,
+        "costo_compra_sin_iva": 8000.32,
+        "costo_compra_con_iva": 8840.35
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_Silent_1500_RPM_LOGUS_69BR",
+      "familia": "Generadores Diesel Silent 1500 RPM",
+      "modelo": "LOGUS 69BR",
+      "especificaciones": {
+        "potencia_max": "69 KVA",
+        "tension": "380/220",
+        "motor": "R4105ZD 76HP - 4 cilTD -1500 RPM",
+        "peso": "1630 Kg"
+      },
+      "precios": {
+        "precio_lista": 12228,
+        "precio_con_bonificacion": 9782.4,
+        "costo_compra_sin_iva": 8999.81,
+        "costo_compra_con_iva": 9944.79
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_Silent_1500_RPM_LOGUS_100BR",
+      "familia": "Generadores Diesel Silent 1500 RPM",
+      "modelo": "LOGUS 100BR",
+      "especificaciones": {
+        "potencia_max": "100 KVA",
+        "tension": "380/220",
+        "motor": "R6105ZD - 6 cilTD - 1500 RPM",
+        "peso": "1600 Kg"
+      },
+      "precios": {
+        "precio_lista": 14266,
+        "precio_con_bonificacion": 11412.8,
+        "costo_compra_sin_iva": 10499.78,
+        "costo_compra_con_iva": 11602.25
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_Silent_1500_RPM_LOGUS_125BR",
+      "familia": "Generadores Diesel Silent 1500 RPM",
+      "modelo": "LOGUS 125BR",
+      "especificaciones": {
+        "potencia_max": "125 KVA",
+        "tension": "380/220",
+        "motor": "R6105ZLD 150HP - 6 cilTD 1500 RPM",
+        "peso": "1800 Kg"
+      },
+      "precios": {
+        "precio_lista": 16712,
+        "precio_con_bonificacion": 13369.6,
+        "costo_compra_sin_iva": 12300.03,
+        "costo_compra_con_iva": 13591.54
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_Silent_1500_RPM_LOGUS_165BR",
+      "familia": "Generadores Diesel Silent 1500 RPM",
+      "modelo": "LOGUS 165BR",
+      "especificaciones": {
+        "potencia_max": "165 KVA",
+        "tension": "380/220",
+        "motor": "R6105IZLD 180HP - 6 cilTD 1500 RPM",
+        "peso": "2000 Kg"
+      },
+      "precios": {
+        "precio_lista": 18342,
+        "precio_con_bonificacion": 14673.6,
+        "costo_compra_sin_iva": 13499.71,
+        "costo_compra_con_iva": 14917.18
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_Silent_1500_RPM_LOGUS_200BR",
+      "familia": "Generadores Diesel Silent 1500 RPM",
+      "modelo": "LOGUS 200BR",
+      "especificaciones": {
+        "potencia_max": "200 KVA",
+        "tension": "380/220",
+        "motor": "6RT80-176D - 6 cilTD 1500 RPM",
+        "peso": "2000 Kg"
+      },
+      "precios": {
+        "precio_lista": 21332,
+        "precio_con_bonificacion": 17065.6,
+        "costo_compra_sin_iva": 15700.35,
+        "costo_compra_con_iva": 17348.89
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Diesel_Silent_1500_RPM_LOGUS_450BR",
+      "familia": "Generadores Diesel Silent 1500 RPM",
+      "modelo": "LOGUS 450BR",
+      "especificaciones": {
+        "potencia_max": "450 KVA",
+        "tension": "380/220",
+        "motor": "SC25G610D2 - 6 cilTD 1500 RPM",
+        "peso": "4850 kg"
+      },
+      "precios": {
+        "precio_lista": 47554,
+        "precio_con_bonificacion": 38043.2,
+        "costo_compra_sin_iva": 34999.74,
+        "costo_compra_con_iva": 38674.72
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_YNS_YNS42S",
+      "familia": "Generadores Cummins Línea YNS",
+      "modelo": "YNS42S",
+      "especificaciones": {
+        "potencia_standby": "42KVA",
+        "potencia_prime": "38KVA",
+        "motor": "CUMMINS 4BT3.9G2 turbo",
+        "peso": "1240Kg"
+      },
+      "precios": {
+        "precio_lista": 14138,
+        "precio_con_bonificacion": 12582.82,
+        "costo_compra_sin_iva": 11450.37,
+        "costo_compra_con_iva": 12652.65
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_YNS_YNS65S",
+      "familia": "Generadores Cummins Línea YNS",
+      "modelo": "YNS65S",
+      "especificaciones": {
+        "potencia_standby": "65KVA",
+        "potencia_prime": "58KVA",
+        "motor": "CUMMINS 4BTA3.9-G2 turbo",
+        "peso": "1390Kg"
+      },
+      "precios": {
+        "precio_lista": 15928,
+        "precio_con_bonificacion": 14175.92,
+        "costo_compra_sin_iva": 12900.09,
+        "costo_compra_con_iva": 14254.6
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_YNS_YNS88S",
+      "familia": "Generadores Cummins Línea YNS",
+      "modelo": "YNS88S",
+      "especificaciones": {
+        "potencia_standby": "88KVA",
+        "potencia_prime": "80KVA",
+        "motor": "CUMMINS 4BTA3.9-G11 turbo",
+        "peso": "1490Kg"
+      },
+      "precios": {
+        "precio_lista": 16545,
+        "precio_con_bonificacion": 14725.05,
+        "costo_compra_sin_iva": 13399.8,
+        "costo_compra_con_iva": 14806.77
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_YNS_YNS110A",
+      "familia": "Generadores Cummins Línea YNS",
+      "modelo": "YNS110A",
+      "especificaciones": {
+        "potencia_standby": "110KVA",
+        "potencia_prime": "100KVA",
+        "motor": "CUMMINS 6BT5.9-G2",
+        "peso": "1150 Kg"
+      },
+      "precios": {
+        "precio_lista": 17900,
+        "precio_con_bonificacion": 15931.0,
+        "costo_compra_sin_iva": 14497.21,
+        "costo_compra_con_iva": 16019.42
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_YNS_YNS110S",
+      "familia": "Generadores Cummins Línea YNS",
+      "modelo": "YNS110S",
+      "especificaciones": {
+        "potencia_standby": "110KVA",
+        "potencia_prime": "100KVA",
+        "motor": "CUMMINS 6BT5.9-G2",
+        "peso": "1720 Kg"
+      },
+      "precios": {
+        "precio_lista": 19015,
+        "precio_con_bonificacion": 16923.35,
+        "costo_compra_sin_iva": 15400.25,
+        "costo_compra_con_iva": 17017.27
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_YNS_YNS170A",
+      "familia": "Generadores Cummins Línea YNS",
+      "modelo": "YNS170A",
+      "especificaciones": {
+        "potencia_standby": "170KVA",
+        "potencia_prime": "155KVA",
+        "motor": "CUMMINS 6BTAA5.9-G12",
+        "peso": "1340 Kg"
+      },
+      "precios": {
+        "precio_lista": 22842,
+        "precio_con_bonificacion": 20329.38,
+        "costo_compra_sin_iva": 18499.74,
+        "costo_compra_con_iva": 20442.21
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_YNS_YNS170S",
+      "familia": "Generadores Cummins Línea YNS",
+      "modelo": "YNS170S",
+      "especificaciones": {
+        "potencia_standby": "170KVA",
+        "potencia_prime": "155KVA",
+        "motor": "CUMMINS 6BTAA5.9-G12",
+        "peso": "2020 Kg"
+      },
+      "precios": {
+        "precio_lista": 24700,
+        "precio_con_bonificacion": 21983.0,
+        "costo_compra_sin_iva": 20004.53,
+        "costo_compra_con_iva": 22105.01
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_YNS_YNS200A",
+      "familia": "Generadores Cummins Línea YNS",
+      "modelo": "YNS200A",
+      "especificaciones": {
+        "potencia_standby": "200KVA",
+        "potencia_prime": "180KVA",
+        "motor": "CUMMINS 6CTAA8.3-G2",
+        "peso": "1650Kg"
+      },
+      "precios": {
+        "precio_lista": 26411,
+        "precio_con_bonificacion": 23505.79,
+        "costo_compra_sin_iva": 21390.27,
+        "costo_compra_con_iva": 23636.25
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_YNS_YNS200S",
+      "familia": "Generadores Cummins Línea YNS",
+      "modelo": "YNS200S",
+      "especificaciones": {
+        "potencia_standby": "200KVA",
+        "potencia_prime": "180KVA",
+        "motor": "CUMMINS 6CTAA8.3-G2",
+        "peso": "2410 Kg"
+      },
+      "precios": {
+        "precio_lista": 28707,
+        "precio_con_bonificacion": 25549.23,
+        "costo_compra_sin_iva": 23249.8,
+        "costo_compra_con_iva": 25691.03
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_YNS_YNS275S",
+      "familia": "Generadores Cummins Línea YNS",
+      "modelo": "YNS275S",
+      "especificaciones": {
+        "potencia_standby": "275KVA",
+        "potencia_prime": "250 KVA",
+        "motor": "CUMMINS 6LTAA8.9-G2",
+        "peso": "2830 Kg"
+      },
+      "precios": {
+        "precio_lista": 37042,
+        "precio_con_bonificacion": 32967.38,
+        "costo_compra_sin_iva": 30000.32,
+        "costo_compra_con_iva": 33150.35
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_YNS_YNS350S",
+      "familia": "Generadores Cummins Línea YNS",
+      "modelo": "YNS350S",
+      "especificaciones": {
+        "potencia_standby": "350KVA",
+        "potencia_prime": "313KVA",
+        "motor": "CUMMINS MTA11-G3",
+        "peso": "4000 Kg"
+      },
+      "precios": {
+        "precio_lista": 44450,
+        "precio_con_bonificacion": 39560.5,
+        "costo_compra_sin_iva": 36000.06,
+        "costo_compra_con_iva": 39780.06
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_CS_CS200A",
+      "familia": "Generadores Cummins Línea CS",
+      "modelo": "CS200A",
+      "especificaciones": {
+        "potencia_standby": "200KVA",
+        "potencia_prime": "180KVA",
+        "motor": "CUMMINS 6CTAA8.3-G",
+        "peso": "1900 Kg"
+      },
+      "precios": {
+        "precio_lista": 26411,
+        "precio_con_bonificacion": 23505.79,
+        "costo_compra_sin_iva": 21390.27,
+        "costo_compra_con_iva": 23636.25
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_CS_CS200S",
+      "familia": "Generadores Cummins Línea CS",
+      "modelo": "CS200S",
+      "especificaciones": {
+        "potencia_standby": "200KVA",
+        "potencia_prime": "180KVA",
+        "motor": "CUMMINS 6CTAA8.3-G",
+        "peso": "2500 Kg"
+      },
+      "precios": {
+        "precio_lista": 28707,
+        "precio_con_bonificacion": 25549.23,
+        "costo_compra_sin_iva": 23249.8,
+        "costo_compra_con_iva": 25691.03
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_CS_CS275A",
+      "familia": "Generadores Cummins Línea CS",
+      "modelo": "CS275A",
+      "especificaciones": {
+        "potencia_standby": "275KVA",
+        "potencia_prime": "250KVA",
+        "motor": "Cummins 6LTAA8.9G2",
+        "peso": "2200 Kg"
+      },
+      "precios": {
+        "precio_lista": 32720,
+        "precio_con_bonificacion": 29120.8,
+        "costo_compra_sin_iva": 26499.93,
+        "costo_compra_con_iva": 29282.42
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_CS_CS360A",
+      "familia": "Generadores Cummins Línea CS",
+      "modelo": "CS360A",
+      "especificaciones": {
+        "potencia_standby": "350KVA",
+        "potencia_prime": "320KVA",
+        "motor": "CUMMINS NTA855-G1B",
+        "peso": "1900 Kg"
+      },
+      "precios": {
+        "precio_lista": 40746,
+        "precio_con_bonificacion": 36263.94,
+        "costo_compra_sin_iva": 33000.19,
+        "costo_compra_con_iva": 36465.2
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_CS_CS375S",
+      "familia": "Generadores Cummins Línea CS",
+      "modelo": "CS375S",
+      "especificaciones": {
+        "potencia_standby": "375KVA",
+        "potencia_prime": "344KVA",
+        "motor": "CUMMINS NTA855-G2A",
+        "peso": "4500 Kg"
+      },
+      "precios": {
+        "precio_lista": 49389,
+        "precio_con_bonificacion": 43956.21,
+        "costo_compra_sin_iva": 40000.15,
+        "costo_compra_con_iva": 44200.17
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_CS_CS450A",
+      "familia": "Generadores Cummins Línea CS",
+      "modelo": "CS450A",
+      "especificaciones": {
+        "potencia_standby": "450KVA",
+        "potencia_prime": "400KVA",
+        "motor": "CUMMINS NTAA855-G7A",
+        "peso": "3250 Kg"
+      },
+      "precios": {
+        "precio_lista": 56550,
+        "precio_con_bonificacion": 50329.5,
+        "costo_compra_sin_iva": 45799.85,
+        "costo_compra_con_iva": 50608.83
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_CS_CS450S",
+      "familia": "Generadores Cummins Línea CS",
+      "modelo": "CS450S",
+      "especificaciones": {
+        "potencia_standby": "450KVA",
+        "potencia_prime": "400KVA",
+        "motor": "CUMMINS NTAA855-G7A",
+        "peso": "4500 Kg"
+      },
+      "precios": {
+        "precio_lista": 63588,
+        "precio_con_bonificacion": 56593.32,
+        "costo_compra_sin_iva": 51499.92,
+        "costo_compra_con_iva": 56907.41
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_CS_CS550A",
+      "familia": "Generadores Cummins Línea CS",
+      "modelo": "CS550A",
+      "especificaciones": {
+        "potencia_standby": "550KVA",
+        "potencia_prime": "500KVA",
+        "motor": "CUMMINS KTA19-G3A",
+        "peso": "3200 Kg"
+      },
+      "precios": {
+        "precio_lista": 67430,
+        "precio_con_bonificacion": 60012.7,
+        "costo_compra_sin_iva": 54611.56,
+        "costo_compra_con_iva": 60345.77
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_CS_CS550S",
+      "familia": "Generadores Cummins Línea CS",
+      "modelo": "CS550S",
+      "especificaciones": {
+        "potencia_standby": "550KVA",
+        "potencia_prime": "500KVA",
+        "motor": "CUMMINS KTA19-G3A",
+        "peso": "5500 Kg"
+      },
+      "precios": {
+        "precio_lista": 76552,
+        "precio_con_bonificacion": 68131.28,
+        "costo_compra_sin_iva": 61999.46,
+        "costo_compra_con_iva": 68509.41
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_CS_CS650S",
+      "familia": "Generadores Cummins Línea CS",
+      "modelo": "CS650S",
+      "especificaciones": {
+        "potencia_standby": "650KVA",
+        "potencia_prime": "600KVA",
+        "motor": "CUMMINS KTA19-G3A",
+        "peso": "5500 Kg"
+      },
+      "precios": {
+        "precio_lista": 91370,
+        "precio_con_bonificacion": 81319.3,
+        "costo_compra_sin_iva": 74000.56,
+        "costo_compra_con_iva": 81770.62
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_CS_CS1000A",
+      "familia": "Generadores Cummins Línea CS",
+      "modelo": "CS1000A",
+      "especificaciones": {
+        "potencia_standby": "1000KVA",
+        "potencia_prime": "910KVA",
+        "motor": "CUMMINS KTA38-G2A",
+        "peso": "7200 Kg"
+      },
+      "precios": {
+        "precio_lista": "consultar",
+        "precio_con_bonificacion": "consultar",
+        "costo_compra_sin_iva": "consultar",
+        "costo_compra_con_iva": "consultar"
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Cummins_Línea_CS_CS1000S",
+      "familia": "Generadores Cummins Línea CS",
+      "modelo": "CS1000S",
+      "especificaciones": {
+        "potencia_standby": "1000KVA",
+        "potencia_prime": "910KVA",
+        "motor": "CUMMINS KTA38-G2A",
+        "peso": "12200 Kg"
+      },
+      "precios": {
+        "precio_lista": "consultar",
+        "precio_con_bonificacion": "consultar",
+        "costo_compra_sin_iva": "consultar",
+        "costo_compra_con_iva": "consultar"
+      },
+      "descuentos": {
+        "bonificacion_general": 11,
+        "descuento_contado": 9,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Generadores_Gas_Residenciales_Insonorizados_-_Dólar_Billete_Pramac_GA8000",
+      "familia": "Generadores Gas Residenciales Insonorizados - Dólar Billete",
+      "modelo": "Pramac GA8000",
+      "especificaciones": {
+        "potencia_max": "8000W",
+        "tension": "220V",
+        "arranque": "AUTOMATICO / TTA",
+        "combustible": "GAS",
+        "dimensiones": "1218x638x732",
+        "peso": "155 Kg"
+      },
+      "precios": {
+        "precio_lista": 5500,
+        "precio_con_bonificacion": 4400.0,
+        "costo_compra_sin_iva": 4400.0,
+        "costo_compra_con_iva": 4862.0
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 0,
+        "iva": 10.5
+      },
+      "financiacion": "Consultar",
+      "disponibilidad": "Disponible",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Residenciales_Insonorizados_-_Dólar_Billete_Pramac_GA10000",
+      "familia": "Generadores Gas Residenciales Insonorizados - Dólar Billete",
+      "modelo": "Pramac GA10000",
+      "especificaciones": {
+        "potencia_max": "10000W",
+        "tension": "220V",
+        "arranque": "AUTOMATICO / TTA",
+        "combustible": "GAS",
+        "dimensiones": "1218x638x732",
+        "peso": "155 Kg"
+      },
+      "precios": {
+        "precio_lista": 6063,
+        "precio_con_bonificacion": 4850.4,
+        "costo_compra_sin_iva": 4850.4,
+        "costo_compra_con_iva": 5359.69
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 0,
+        "iva": 10.5
+      },
+      "financiacion": "Consultar",
+      "disponibilidad": "Disponible",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Residenciales_Insonorizados_-_Dólar_Billete_Pramac_GA13000",
+      "familia": "Generadores Gas Residenciales Insonorizados - Dólar Billete",
+      "modelo": "Pramac GA13000",
+      "especificaciones": {
+        "potencia_max": "13000W",
+        "tension": "220V",
+        "arranque": "AUTOMATICO / TTA",
+        "combustible": "GAS",
+        "dimensiones": "1218x638x732",
+        "peso": "193 Kg"
+      },
+      "precios": {
+        "precio_lista": 7500,
+        "precio_con_bonificacion": 6000.0,
+        "costo_compra_sin_iva": 6000.0,
+        "costo_compra_con_iva": 6630.0
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 0,
+        "iva": 10.5
+      },
+      "financiacion": "Consultar",
+      "disponibilidad": "Disponible",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Residenciales_Insonorizados_-_Dólar_Billete_Pramac_GA20000",
+      "familia": "Generadores Gas Residenciales Insonorizados - Dólar Billete",
+      "modelo": "Pramac GA20000",
+      "especificaciones": {
+        "potencia_max": "17 KVA",
+        "tension": "220/380V",
+        "arranque": "AUTOMATICO / TTA",
+        "combustible": "GAS",
+        "dimensiones": "1232x648x733",
+        "peso": "220 Kg"
+      },
+      "precios": {
+        "precio_lista": 9375,
+        "precio_con_bonificacion": 7500.0,
+        "costo_compra_sin_iva": 7500.0,
+        "costo_compra_con_iva": 8287.5
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 0,
+        "iva": 10.5
+      },
+      "financiacion": "Consultar",
+      "disponibilidad": "Disponible",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Residenciales_Insonorizados_-_Dólar_BNA_GLT9500E",
+      "familia": "Generadores Gas Residenciales Insonorizados - Dólar BNA",
+      "modelo": "GLT9500E",
+      "especificaciones": {
+        "potencia_max": "9500W",
+        "tension": "220V",
+        "arranque": "ELECTRICO / AUTOMATICO",
+        "combustible": "NAFTA / GAS",
+        "dimensiones": "848x645x710",
+        "peso": "105 Kg"
+      },
+      "precios": {
+        "precio_lista": 2582,
+        "precio_con_bonificacion": 2065.6,
+        "costo_compra_sin_iva": 1900.35,
+        "costo_compra_con_iva": 2099.89
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Residenciales_Insonorizados_-_Dólar_BNA_TTA-9500",
+      "familia": "Generadores Gas Residenciales Insonorizados - Dólar BNA",
+      "modelo": "TTA-9500",
+      "especificaciones": {
+        "descripcion": "TABLERO DE TRANSFERENCIA AUTOMATICO PARA GLT9500E"
+      },
+      "precios": {
+        "precio_lista": 245,
+        "precio_con_bonificacion": 196.0,
+        "costo_compra_sin_iva": 180.32,
+        "costo_compra_con_iva": 199.25
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Residenciales_Insonorizados_-_Dólar_BNA_GLG8000EM",
+      "familia": "Generadores Gas Residenciales Insonorizados - Dólar BNA",
+      "modelo": "GLG8000EM",
+      "especificaciones": {
+        "potencia_max": "8000W",
+        "tension": "220V",
+        "arranque": "AUTOMATICO - CON TTA",
+        "combustible": "GAS"
+      },
+      "precios": {
+        "precio_lista": 4600,
+        "precio_con_bonificacion": 3680.0,
+        "costo_compra_sin_iva": 3385.6,
+        "costo_compra_con_iva": 3741.09
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Proximamente",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Residenciales_Insonorizados_-_Dólar_BNA_GLG13000EM",
+      "familia": "Generadores Gas Residenciales Insonorizados - Dólar BNA",
+      "modelo": "GLG13000EM",
+      "especificaciones": {
+        "potencia_max": "13000W",
+        "tension": "220V",
+        "arranque": "AUTOMATICO - CON TTA",
+        "combustible": "GAS"
+      },
+      "precios": {
+        "precio_lista": 6793,
+        "precio_con_bonificacion": 5434.4,
+        "costo_compra_sin_iva": 4999.65,
+        "costo_compra_con_iva": 5524.61
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Proximamente",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Residenciales_Insonorizados_-_Dólar_BNA_GLG20000EM",
+      "familia": "Generadores Gas Residenciales Insonorizados - Dólar BNA",
+      "modelo": "GLG20000EM",
+      "especificaciones": {
+        "potencia_max": "18000W",
+        "tension": "220V",
+        "arranque": "AUTOMATICO - CON TTA",
+        "combustible": "GAS",
+        "dimensiones": "1282x670x720",
+        "peso": "245 Kg"
+      },
+      "precios": {
+        "precio_lista": 7541,
+        "precio_con_bonificacion": 6032.8,
+        "costo_compra_sin_iva": 5550.18,
+        "costo_compra_con_iva": 6132.94
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Residenciales_Insonorizados_-_Dólar_BNA_GLG20000ET",
+      "familia": "Generadores Gas Residenciales Insonorizados - Dólar BNA",
+      "modelo": "GLG20000ET",
+      "especificaciones": {
+        "potencia_max": "18 KVA",
+        "tension": "220/380V",
+        "arranque": "AUTOMATICO - CON TTA",
+        "combustible": "GAS",
+        "dimensiones": "1282x670x720",
+        "peso": "245 Kg"
+      },
+      "precios": {
+        "precio_lista": 7541,
+        "precio_con_bonificacion": 6032.8,
+        "costo_compra_sin_iva": 5550.18,
+        "costo_compra_con_iva": 6132.94
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Proximamente",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Industriales_Insonorizados_Pramac_-_Dólar_Billete_Pramac_GGW035",
+      "familia": "Generadores Gas Industriales Insonorizados Pramac - Dólar Billete",
+      "modelo": "Pramac GGW035",
+      "especificaciones": {
+        "potencia_max": "35 KVA",
+        "tension": "220/380V",
+        "arranque": "AUTOMATICO / TTA",
+        "dimensiones": "2409x985x1461",
+        "peso": "980Kg"
+      },
+      "precios": {
+        "precio_lista": 35955,
+        "precio_con_bonificacion": 28764.0,
+        "costo_compra_sin_iva": 28764.0,
+        "costo_compra_con_iva": 31784.22
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 0,
+        "iva": 10.5
+      },
+      "financiacion": "Plan especial 9 meses sin intereses",
+      "disponibilidad": "Disponible",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Industriales_Insonorizados_Pramac_-_Dólar_Billete_Pramac_GGW050",
+      "familia": "Generadores Gas Industriales Insonorizados Pramac - Dólar Billete",
+      "modelo": "Pramac GGW050",
+      "especificaciones": {
+        "potencia_max": "50 KVA",
+        "tension": "220/380V",
+        "arranque": "AUTOMATICO / TTA",
+        "dimensiones": "2409x985x1461",
+        "peso": "980Kg"
+      },
+      "precios": {
+        "precio_lista": 41573,
+        "precio_con_bonificacion": 33258.4,
+        "costo_compra_sin_iva": 33258.4,
+        "costo_compra_con_iva": 36750.53
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 0,
+        "iva": 10.5
+      },
+      "financiacion": "Plan especial 9 meses sin intereses",
+      "disponibilidad": "Disponible",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Industriales_Insonorizados_Pramac_-_Dólar_Billete_Pramac_GGW070",
+      "familia": "Generadores Gas Industriales Insonorizados Pramac - Dólar Billete",
+      "modelo": "Pramac GGW070",
+      "especificaciones": {
+        "potencia_max": "70 KVA",
+        "tension": "220/380V",
+        "arranque": "AUTOMATICO / TTA",
+        "dimensiones": "2409x985x1461",
+        "peso": "980Kg"
+      },
+      "precios": {
+        "precio_lista": 47375,
+        "precio_con_bonificacion": 37900.0,
+        "costo_compra_sin_iva": 37900.0,
+        "costo_compra_con_iva": 41879.5
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 0,
+        "iva": 10.5
+      },
+      "financiacion": "Plan especial 9 meses sin intereses",
+      "disponibilidad": "Disponible",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Industriales_Insonorizados_Pramac_-_Dólar_Billete_Pramac_GGW080",
+      "familia": "Generadores Gas Industriales Insonorizados Pramac - Dólar Billete",
+      "modelo": "Pramac GGW080",
+      "especificaciones": {
+        "potencia_max": "80 KVA",
+        "tension": "220/380V",
+        "arranque": "AUTOMATICO / TTA",
+        "dimensiones": "2409x985x1461",
+        "peso": "980Kg"
+      },
+      "precios": {
+        "precio_lista": 47728,
+        "precio_con_bonificacion": 38182.4,
+        "costo_compra_sin_iva": 38182.4,
+        "costo_compra_con_iva": 42191.55
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 0,
+        "iva": 10.5
+      },
+      "financiacion": "Plan especial 9 meses sin intereses",
+      "disponibilidad": "Disponible",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Industriales_Insonorizados_Pramac_-_Dólar_Billete_Pramac_GGW100G",
+      "familia": "Generadores Gas Industriales Insonorizados Pramac - Dólar Billete",
+      "modelo": "Pramac GGW100G",
+      "especificaciones": {
+        "potencia_max": "100 KVA",
+        "tension": "220/380V",
+        "arranque": "AUTOMATICO / TTA",
+        "dimensiones": "2840x1030x1427",
+        "peso": "1228Kg"
+      },
+      "precios": {
+        "precio_lista": 50575,
+        "precio_con_bonificacion": 40460.0,
+        "costo_compra_sin_iva": 40460.0,
+        "costo_compra_con_iva": 44708.3
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 0,
+        "iva": 10.5
+      },
+      "financiacion": "Plan especial 9 meses sin intereses",
+      "disponibilidad": "Disponible",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Comerciales_Insonorizados_-_Dólar_Billete_Pramac_GL027",
+      "familia": "Generadores Gas Comerciales Insonorizados - Dólar Billete",
+      "modelo": "Pramac GL027",
+      "especificaciones": {
+        "potencia_max": "27 KVA",
+        "tension": "231/400V",
+        "arranque": "AUTOMATICO / TTA",
+        "dimensiones": "1580x776x980",
+        "peso": "456Kg"
+      },
+      "precios": {
+        "precio_lista": 20200,
+        "precio_con_bonificacion": 16160.0,
+        "costo_compra_sin_iva": 16160.0,
+        "costo_compra_con_iva": 17856.8
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 0,
+        "iva": 10.5
+      },
+      "financiacion": "Consultar",
+      "disponibilidad": "Disponible",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Industriales_Insonorizados_Logus_-_Dólar_BNA_Logus_41BR_GAS",
+      "familia": "Generadores Gas Industriales Insonorizados Logus - Dólar BNA",
+      "modelo": "Logus 41BR GAS",
+      "especificaciones": {
+        "potencia_max": "41 KVA",
+        "tension": "220/380V",
+        "arranque": "ELÉCTRICO",
+        "dimensiones": "2340x980x1620",
+        "peso": "1230 KG"
+      },
+      "precios": {
+        "precio_lista": 15625,
+        "precio_con_bonificacion": 12500.0,
+        "costo_compra_sin_iva": 11500.0,
+        "costo_compra_con_iva": 12707.5
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Industriales_Insonorizados_Logus_-_Dólar_BNA_Logus_69BR_GAS",
+      "familia": "Generadores Gas Industriales Insonorizados Logus - Dólar BNA",
+      "modelo": "Logus 69BR GAS",
+      "especificaciones": {
+        "potencia_max": "69 KVA",
+        "tension": "220/380V",
+        "arranque": "ELÉCTRICO",
+        "dimensiones": "2450x1000x1550",
+        "peso": "1630 KG"
+      },
+      "precios": {
+        "precio_lista": 18342,
+        "precio_con_bonificacion": 14673.6,
+        "costo_compra_sin_iva": 13499.71,
+        "costo_compra_con_iva": 14917.18
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Generadores_Gas_Industriales_Insonorizados_Logus_-_Dólar_BNA_Logus_125BR_GAS",
+      "familia": "Generadores Gas Industriales Insonorizados Logus - Dólar BNA",
+      "modelo": "Logus 125BR GAS",
+      "especificaciones": {
+        "potencia_max": "125 KVA",
+        "tension": "220/380V",
+        "arranque": "ELÉCTRICO",
+        "dimensiones": "2920x1100x1420",
+        "peso": "1670 KG"
+      },
+      "precios": {
+        "precio_lista": 30571,
+        "precio_con_bonificacion": 24456.8,
+        "costo_compra_sin_iva": 22500.26,
+        "costo_compra_con_iva": 24862.78
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": "CON TTA INCLUIDO"
+    },
+    {
+      "id": "Motobombas_Nafteras_y_Diesel_Autocebantes_GP50",
+      "familia": "Motobombas Nafteras y Diesel Autocebantes",
+      "modelo": "GP50",
+      "especificaciones": {
+        "descripcion": "Motobomba diametro 2'' - Motor 5,5 HP - 30.000 Lts/h"
+      },
+      "precios": {
+        "precio_lista": 147,
+        "precio_con_bonificacion": 110.25,
+        "costo_compra_sin_iva": 101.43,
+        "costo_compra_con_iva": 122.73
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 21
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motobombas_Nafteras_y_Diesel_Autocebantes_GP80",
+      "familia": "Motobombas Nafteras y Diesel Autocebantes",
+      "modelo": "GP80",
+      "especificaciones": {
+        "descripcion": "Motobomba diametro 3'' - Motor 5,5 HP - 60.000 Lts/h"
+      },
+      "precios": {
+        "precio_lista": 156,
+        "precio_con_bonificacion": 117.0,
+        "costo_compra_sin_iva": 107.64,
+        "costo_compra_con_iva": 130.24
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 21
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motobombas_Nafteras_y_Diesel_Autocebantes_GP100",
+      "familia": "Motobombas Nafteras y Diesel Autocebantes",
+      "modelo": "GP100",
+      "especificaciones": {
+        "descripcion": "Motobomba diametro 4'' - Motor 9 HP - 80.000 Lts/h"
+      },
+      "precios": {
+        "precio_lista": 415,
+        "precio_con_bonificacion": 311.25,
+        "costo_compra_sin_iva": 286.35,
+        "costo_compra_con_iva": 346.48
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 21
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motobombas_Nafteras_y_Diesel_Autocebantes_GP100_MAX",
+      "familia": "Motobombas Nafteras y Diesel Autocebantes",
+      "modelo": "GP100 MAX",
+      "especificaciones": {
+        "descripcion": "Motobomba diametro 4'' - Motor 7 HP - 70.000 Lts/h"
+      },
+      "precios": {
+        "precio_lista": 232,
+        "precio_con_bonificacion": 174.0,
+        "costo_compra_sin_iva": 160.08,
+        "costo_compra_con_iva": 193.7
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 21
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motobombas_Nafteras_y_Diesel_Autocebantes_GPD80_DIESEL",
+      "familia": "Motobombas Nafteras y Diesel Autocebantes",
+      "modelo": "GPD80 DIESEL",
+      "especificaciones": {
+        "descripcion": "Motobomba diametro 3'' - Motor 7,0 HP - 60.000 Lts/h"
+      },
+      "precios": {
+        "precio_lista": 505,
+        "precio_con_bonificacion": 378.75,
+        "costo_compra_sin_iva": 348.45,
+        "costo_compra_con_iva": 421.62
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 21
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motobomba_Naftera_para_Agua_Sucia_GTP80",
+      "familia": "Motobomba Naftera para Agua Sucia",
+      "modelo": "GTP80",
+      "especificaciones": {
+        "descripcion": "Motobomba diametro 3'' - Motor 6,5 HP - 60.000 Lts/h - Bombea sólidos hasta 3cm de diám."
+      },
+      "precios": {
+        "precio_lista": 365,
+        "precio_con_bonificacion": 273.75,
+        "costo_compra_sin_iva": 251.85,
+        "costo_compra_con_iva": 304.74
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 21
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motobomba_Naftera_de_Alta_Presión_GHP50",
+      "familia": "Motobomba Naftera de Alta Presión",
+      "modelo": "GHP50",
+      "especificaciones": {
+        "descripcion": "Motobomba diametro 2'' - Motor 6,5 HP - 30.000 Lts/h - Altura máxima 57 mts"
+      },
+      "precios": {
+        "precio_lista": 232,
+        "precio_con_bonificacion": 174.0,
+        "costo_compra_sin_iva": 160.08,
+        "costo_compra_con_iva": 193.7
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 21
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Hidrolavadora_Profesional_con_Motor_a_Explosión_GHL150",
+      "familia": "Hidrolavadora Profesional con Motor a Explosión",
+      "modelo": "GHL150",
+      "especificaciones": {
+        "descripcion": "Caudal 14 Lts / 150 BAR - Motor nafta 7 HP - Incluye lanza, picos, manguera y chasis con ruedas"
+      },
+      "precios": {
+        "precio_lista": 320,
+        "precio_con_bonificacion": 240.0,
+        "costo_compra_sin_iva": 220.8,
+        "costo_compra_con_iva": 243.98
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Hidrolavadora_Profesional_con_Motor_a_Explosión_GHL180",
+      "familia": "Hidrolavadora Profesional con Motor a Explosión",
+      "modelo": "GHL180",
+      "especificaciones": {
+        "descripcion": "Caudal 14 Lts / 186 BAR - Motor nafta 7 HP - Incluye lanza, picos, manguera y chasis con ruedas"
+      },
+      "precios": {
+        "precio_lista": 650,
+        "precio_con_bonificacion": 487.5,
+        "costo_compra_sin_iva": 448.5,
+        "costo_compra_con_iva": 495.59
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Hidrolavadora_Profesional_con_Motor_a_Explosión_GHL250",
+      "familia": "Hidrolavadora Profesional con Motor a Explosión",
+      "modelo": "GHL250",
+      "especificaciones": {
+        "descripcion": "Caudal 20 Lts / 250 BAR - Motor nafta 13 HP - Incluye lanza, picos, manguera y chasis con ruedas"
+      },
+      "precios": {
+        "precio_lista": 850,
+        "precio_con_bonificacion": 637.5,
+        "costo_compra_sin_iva": 586.5,
+        "costo_compra_con_iva": 648.08
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motores_Nafteros_152_F",
+      "familia": "Motores Nafteros",
+      "modelo": "152 F",
+      "especificaciones": {
+        "potencia": "2,5 HP",
+        "arranque": "MANUAL",
+        "salida": "HORIZONTAL"
+      },
+      "precios": {
+        "precio_lista": "SIN STOCK",
+        "precio_con_bonificacion": "SIN STOCK",
+        "costo_compra_sin_iva": "SIN STOCK",
+        "costo_compra_con_iva": "SIN STOCK"
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motores_Nafteros_168_F",
+      "familia": "Motores Nafteros",
+      "modelo": "168 F",
+      "especificaciones": {
+        "potencia": "5,5 HP",
+        "arranque": "MANUAL",
+        "salida": "HORIZONTAL"
+      },
+      "precios": {
+        "precio_lista": "SIN STOCK",
+        "precio_con_bonificacion": "SIN STOCK",
+        "costo_compra_sin_iva": "SIN STOCK",
+        "costo_compra_con_iva": "SIN STOCK"
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motores_Nafteros_168F-LT",
+      "familia": "Motores Nafteros",
+      "modelo": "168F-LT",
+      "especificaciones": {
+        "potencia": "6,5 HP",
+        "arranque": "MANUAL",
+        "salida": "HORIZONTAL"
+      },
+      "precios": {
+        "precio_lista": 161,
+        "precio_con_bonificacion": 120.75,
+        "costo_compra_sin_iva": 111.09,
+        "costo_compra_con_iva": 122.75
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motores_Nafteros_168_FD",
+      "familia": "Motores Nafteros",
+      "modelo": "168 FD",
+      "especificaciones": {
+        "potencia": "6,5 HP",
+        "arranque": "ELÉCTRICO",
+        "salida": "HORIZONTAL"
+      },
+      "precios": {
+        "precio_lista": 210,
+        "precio_con_bonificacion": 157.5,
+        "costo_compra_sin_iva": 144.9,
+        "costo_compra_con_iva": 160.11
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motores_Nafteros_177_F",
+      "familia": "Motores Nafteros",
+      "modelo": "177 F",
+      "especificaciones": {
+        "potencia": "9 HP",
+        "arranque": "MANUAL",
+        "salida": "HORIZONTAL"
+      },
+      "precios": {
+        "precio_lista": "SIN STOCK",
+        "precio_con_bonificacion": "SIN STOCK",
+        "costo_compra_sin_iva": "SIN STOCK",
+        "costo_compra_con_iva": "SIN STOCK"
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motores_Nafteros_188_F",
+      "familia": "Motores Nafteros",
+      "modelo": "188 F",
+      "especificaciones": {
+        "potencia": "13 HP",
+        "arranque": "MANUAL",
+        "salida": "HORIZONTAL"
+      },
+      "precios": {
+        "precio_lista": 300,
+        "precio_con_bonificacion": 225.0,
+        "costo_compra_sin_iva": 207.0,
+        "costo_compra_con_iva": 228.73
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motores_Nafteros_188FD",
+      "familia": "Motores Nafteros",
+      "modelo": "188FD",
+      "especificaciones": {
+        "potencia": "13 HP",
+        "arranque": "ELÉCTRICO",
+        "salida": "HORIZONTAL"
+      },
+      "precios": {
+        "precio_lista": 370,
+        "precio_con_bonificacion": 277.5,
+        "costo_compra_sin_iva": 255.3,
+        "costo_compra_con_iva": 282.11
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motores_Nafteros_190FD",
+      "familia": "Motores Nafteros",
+      "modelo": "190FD",
+      "especificaciones": {
+        "potencia": "15HP",
+        "arranque": "ELÉCTRICO",
+        "salida": "HORIZONTAL"
+      },
+      "precios": {
+        "precio_lista": 395,
+        "precio_con_bonificacion": 296.25,
+        "costo_compra_sin_iva": 272.55,
+        "costo_compra_con_iva": 301.17
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motores_Nafteros_KG690",
+      "familia": "Motores Nafteros",
+      "modelo": "KG690",
+      "especificaciones": {
+        "potencia": "20 HP",
+        "arranque": "ELÉCTRICO",
+        "salida": "HORIZONTAL"
+      },
+      "precios": {
+        "precio_lista": "SIN STOCK",
+        "precio_con_bonificacion": "SIN STOCK",
+        "costo_compra_sin_iva": "SIN STOCK",
+        "costo_compra_con_iva": "SIN STOCK"
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motores_Nafteros_con_Reductor_168F-L",
+      "familia": "Motores Nafteros con Reductor",
+      "modelo": "168F-L",
+      "especificaciones": {
+        "potencia": "5,5 HP",
+        "arranque": "MANUAL",
+        "salida": "HORIZONTAL"
+      },
+      "precios": {
+        "precio_lista": 194,
+        "precio_con_bonificacion": 145.5,
+        "costo_compra_sin_iva": 133.86,
+        "costo_compra_con_iva": 147.92
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motores_Nafteros_con_Reductor_168_F-R",
+      "familia": "Motores Nafteros con Reductor",
+      "modelo": "168 F-R",
+      "especificaciones": {
+        "potencia": "5,5 HP con embrague",
+        "arranque": "MANUAL",
+        "salida": "HORIZONTAL"
+      },
+      "precios": {
+        "precio_lista": 290,
+        "precio_con_bonificacion": 217.5,
+        "costo_compra_sin_iva": 200.1,
+        "costo_compra_con_iva": 221.11
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motores_Diesel_KM178F",
+      "familia": "Motores Diesel",
+      "modelo": "KM178F",
+      "especificaciones": {
+        "potencia": "7 HP",
+        "arranque": "MANUAL",
+        "caracteristicas": "MONOCILINDRICO - AIRE"
+      },
+      "precios": {
+        "precio_lista": "Consultar",
+        "precio_con_bonificacion": "Consultar",
+        "costo_compra_sin_iva": "Consultar",
+        "costo_compra_con_iva": "Consultar"
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motores_Diesel_KM186FE",
+      "familia": "Motores Diesel",
+      "modelo": "KM186FE",
+      "especificaciones": {
+        "potencia": "9 HP",
+        "arranque": "ELECTRICO",
+        "caracteristicas": "MONOCILINDRICO - AIRE"
+      },
+      "precios": {
+        "precio_lista": 688,
+        "precio_con_bonificacion": 516.0,
+        "costo_compra_sin_iva": 474.72,
+        "costo_compra_con_iva": 524.57
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motores_Diesel_KM2V80",
+      "familia": "Motores Diesel",
+      "modelo": "KM2V80",
+      "especificaciones": {
+        "potencia": "15HP",
+        "arranque": "ELECTRICO",
+        "caracteristicas": "BICILINDRICO - AGUA"
+      },
+      "precios": {
+        "precio_lista": "SIN STOCK",
+        "precio_con_bonificacion": "SIN STOCK",
+        "costo_compra_sin_iva": "SIN STOCK",
+        "costo_compra_con_iva": "SIN STOCK"
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motores_Diesel_KM376AG-DAIHATSU",
+      "familia": "Motores Diesel",
+      "modelo": "KM376AG-DAIHATSU",
+      "especificaciones": {
+        "potencia": "25 HP",
+        "arranque": "ELECTRICO",
+        "caracteristicas": "3 CILINDROS-AGUA"
+      },
+      "precios": {
+        "precio_lista": "SIN STOCK",
+        "precio_con_bonificacion": "SIN STOCK",
+        "costo_compra_sin_iva": "SIN STOCK",
+        "costo_compra_con_iva": "SIN STOCK"
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Atomizador_Mochila_Fumigador_3WF-3",
+      "familia": "Atomizador Mochila Fumigador",
+      "modelo": "3WF-3",
+      "especificaciones": {
+        "motor": "42 c.c - 2T",
+        "caudal": "4Lts/min",
+        "capacidad_tanque": "26Lts",
+        "peso": "12 Kg"
+      },
+      "precios": {
+        "precio_lista": 145,
+        "precio_con_bonificacion": 116.0,
+        "costo_compra_sin_iva": 106.72,
+        "costo_compra_con_iva": 129.13
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 21
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motocultivador_Nafta_LT500",
+      "familia": "Motocultivador Nafta",
+      "modelo": "LT500",
+      "especificaciones": {
+        "descripcion": "Motor Nafta 7 HP refrigerado por aire - Autopropulsado - Rotovator incluido - 16 cuchillas - Ancho de trabajo 50cm - Profunidad de labranza 10cm - Marchas hacia adelante y reversa - Peso 65Kg."
+      },
+      "precios": {
+        "precio_lista": 690,
+        "precio_con_bonificacion": 552.0,
+        "costo_compra_sin_iva": 507.84,
+        "costo_compra_con_iva": 561.16
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motocultivador_Diesel_DF15L",
+      "familia": "Motocultivador Diesel",
+      "modelo": "DF15L",
+      "especificaciones": {
+        "descripcion": "Motor Diesel 15 HP refrigerado por agua - Rotovator incluido - 18 cuchillas - Ancho de trabajo 70cm - Arranque manual -6 Velocidades + 2 en reversa"
+      },
+      "precios": {
+        "precio_lista": 2760,
+        "precio_con_bonificacion": 2346.0,
+        "costo_compra_sin_iva": 2346.0,
+        "costo_compra_con_iva": 2592.33
+      },
+      "descuentos": {
+        "bonificacion_general": 15,
+        "descuento_contado": 0,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90 - Bonificación 7%",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Motocultivador_Diesel_DF15KLM",
+      "familia": "Motocultivador Diesel",
+      "modelo": "DF15KLM",
+      "especificaciones": {
+        "descripcion": "Motor Diesel 15 HP refrigerado por agua - Rotovator incluido - 24 cuchillas - Ancho de trabajo 80cm - Arranque ELECTRICO - 6Velocidades + 2 en reversa"
+      },
+      "precios": {
+        "precio_lista": 3211,
+        "precio_con_bonificacion": 2729.35,
+        "costo_compra_sin_iva": 2729.35,
+        "costo_compra_con_iva": 3015.93
+      },
+      "descuentos": {
+        "bonificacion_general": 15,
+        "descuento_contado": 0,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90 - Bonificación 7%",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Implementos_Logus_RASTRA_DE_DISCO",
+      "familia": "Implementos Logus",
+      "modelo": "RASTRA DE DISCO",
+      "especificaciones": {
+        "descripcion": "PARA APLICAR A LOGUS DF15L y DF15KLM"
+      },
+      "precios": {
+        "precio_lista": 244,
+        "precio_con_bonificacion": 207.4,
+        "costo_compra_sin_iva": 207.4,
+        "costo_compra_con_iva": 229.18
+      },
+      "descuentos": {
+        "bonificacion_general": 15,
+        "descuento_contado": 0,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90 - Bonificación 7%",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Implementos_Logus_ARADO",
+      "familia": "Implementos Logus",
+      "modelo": "ARADO",
+      "especificaciones": {
+        "descripcion": "RASTRA DE ARADO DOBLE PARA APLICAR LOGUS DF15L Y DF15KLM"
+      },
+      "precios": {
+        "precio_lista": 418,
+        "precio_con_bonificacion": 355.3,
+        "costo_compra_sin_iva": 355.3,
+        "costo_compra_con_iva": 392.61
+      },
+      "descuentos": {
+        "bonificacion_general": 15,
+        "descuento_contado": 0,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90 - Bonificación 7%",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Chipeadora_CHIPEADORA_DR-G65S",
+      "familia": "Chipeadora",
+      "modelo": "CHIPEADORA DR-G65S",
+      "especificaciones": {
+        "descripcion": "Motor LOGUS 7HP NAFTA - Capacidad de chip 5cm - Ramas y troncos hasta 5cm diametro - Dimensiones 1890x550x1230 - Peso 85Kgs - Incluye ruedas"
+      },
+      "precios": {
+        "precio_lista": 789,
+        "precio_con_bonificacion": 631.2,
+        "costo_compra_sin_iva": 580.7,
+        "costo_compra_con_iva": 641.68
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Chipeadora_CHIPEADORA_DR-G65H",
+      "familia": "Chipeadora",
+      "modelo": "CHIPEADORA DR-G65H",
+      "especificaciones": {
+        "descripcion": "Motor LOGUS 7HP NAFTA - Capacidad de chip 10cms - Semiprofesional - Ramas y troncos hasta 10cms - Dimensiones 1890x550x1230 - Peso 100Kgs - Incluye ruedas"
+      },
+      "precios": {
+        "precio_lista": 1071,
+        "precio_con_bonificacion": 856.8,
+        "costo_compra_sin_iva": 788.26,
+        "costo_compra_con_iva": 871.02
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Chipeadora_CORTADORA_TRONCOS_DR-GL-34T",
+      "familia": "Chipeadora",
+      "modelo": "CORTADORA TRONCOS DR-GL-34T",
+      "especificaciones": {
+        "descripcion": "Motor LOGUS 7HP NAFTA - Potencia maxima 34TNS - Largo maximo tronco 500mm - Diametro max 750mm - Dim. 2750x780x850 - Operación horizontal Peso 220Kgs. - Incluye gancho trailer"
+      },
+      "precios": {
+        "precio_lista": 2109,
+        "precio_con_bonificacion": 1687.2,
+        "costo_compra_sin_iva": 1552.22,
+        "costo_compra_con_iva": 1715.21
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Chipeadora_ZANJEADORA_DR-TR15",
+      "familia": "Chipeadora",
+      "modelo": "ZANJEADORA DR-TR15",
+      "especificaciones": {
+        "descripcion": "MOTOR LOGUS 15HP NAFTA - Ancho zanja 100mm - Profundiad 200/400/600mm regulable - Capac zanjeado 60m/h - Espada 1mt - Peso 180Kgs - Incluye ruedas - 1600x750x850mm"
+      },
+      "precios": {
+        "precio_lista": 3163,
+        "precio_con_bonificacion": 2530.4,
+        "costo_compra_sin_iva": 2327.97,
+        "costo_compra_con_iva": 2572.4
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Compresores_a_Tornillo_SE-10TD_4_en_1",
+      "familia": "Compresores a Tornillo",
+      "modelo": "SE-10TD 4 en 1",
+      "especificaciones": {
+        "descripcion": "Compresor, secador de aire, tanque incorporado y filtros",
+        "motor": "7.5 kW / 3000-3600 RPM",
+        "presion": "10 Bar",
+        "refrigeracion": "Aire",
+        "peso": "185 Kg"
+      },
+      "precios": {
+        "precio_lista": 6000,
+        "precio_con_bonificacion": 4800.0,
+        "costo_compra_sin_iva": 4416.0,
+        "costo_compra_con_iva": 4879.68
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Compresores_a_Tornillo_SV-10",
+      "familia": "Compresores a Tornillo",
+      "modelo": "SV-10",
+      "especificaciones": {
+        "motor": "7.5 kW / 3400 RPM",
+        "presion": "10 Bar",
+        "refrigeracion": "Aire",
+        "peso": "200 Kg"
+      },
+      "precios": {
+        "precio_lista": 4000,
+        "precio_con_bonificacion": 3200.0,
+        "costo_compra_sin_iva": 2944.0,
+        "costo_compra_con_iva": 3253.12
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Compresores_a_Tornillo_SV-20",
+      "familia": "Compresores a Tornillo",
+      "modelo": "SV-20",
+      "especificaciones": {
+        "motor": "15 kW / 3000-3500 RPM",
+        "presion": "10 Bar",
+        "refrigeracion": "Aire",
+        "peso": "290 Kg"
+      },
+      "precios": {
+        "precio_lista": 6500,
+        "precio_con_bonificacion": 5200.0,
+        "costo_compra_sin_iva": 4784.0,
+        "costo_compra_con_iva": 5286.32
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Compresores_a_Tornillo_SV-30",
+      "familia": "Compresores a Tornillo",
+      "modelo": "SV-30",
+      "especificaciones": {
+        "motor": "30 HP",
+        "presion": "10 Bar",
+        "refrigeracion": "Aire",
+        "peso": "345 Kg"
+      },
+      "precios": {
+        "precio_lista": 7600,
+        "precio_con_bonificacion": 6080.0,
+        "costo_compra_sin_iva": 5593.6,
+        "costo_compra_con_iva": 6180.93
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Compresores_a_Tornillo_SV-50",
+      "familia": "Compresores a Tornillo",
+      "modelo": "SV-50",
+      "especificaciones": {
+        "motor": "50 HP",
+        "presion": "10 Bar",
+        "refrigeracion": "Aire",
+        "peso": "550 Kg"
+      },
+      "precios": {
+        "precio_lista": "Proximamente",
+        "precio_con_bonificacion": "Proximamente",
+        "costo_compra_sin_iva": "Proximamente",
+        "costo_compra_con_iva": "Proximamente"
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Compresores_a_Tornillo_SE-5TN",
+      "familia": "Compresores a Tornillo",
+      "modelo": "SE-5TN",
+      "especificaciones": {
+        "motor": "5 HP",
+        "presion": "8 Bar",
+        "refrigeracion": "Aire",
+        "peso": "120 Kg"
+      },
+      "precios": {
+        "precio_lista": 3100,
+        "precio_con_bonificacion": 2480.0,
+        "costo_compra_sin_iva": 2281.6,
+        "costo_compra_con_iva": 2521.17
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Compresores_a_Tornillo_SE-10TN",
+      "familia": "Compresores a Tornillo",
+      "modelo": "SE-10TN",
+      "especificaciones": {
+        "motor": "10 HP",
+        "presion": "10 Bar",
+        "refrigeracion": "Aire",
+        "peso": "150 Kg"
+      },
+      "precios": {
+        "precio_lista": 3500,
+        "precio_con_bonificacion": 2800.0,
+        "costo_compra_sin_iva": 2576.0,
+        "costo_compra_con_iva": 2846.48
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Accesorios_Compresores_a_Tornillo_Secadora_de_Aire_HD10AC",
+      "familia": "Accesorios Compresores a Tornillo",
+      "modelo": "Secadora de Aire HD10AC",
+      "especificaciones": {
+        "iva": 10.5
+      },
+      "precios": {
+        "precio_lista": 1490,
+        "precio_con_bonificacion": 1192.0,
+        "costo_compra_sin_iva": 1096.64,
+        "costo_compra_con_iva": 1211.79
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Proximamente",
+      "notas": ""
+    },
+    {
+      "id": "Accesorios_Compresores_a_Tornillo_Secadora_de_Aire_HD20AC",
+      "familia": "Accesorios Compresores a Tornillo",
+      "modelo": "Secadora de Aire HD20AC",
+      "especificaciones": {
+        "iva": 10.5
+      },
+      "precios": {
+        "precio_lista": 1800,
+        "precio_con_bonificacion": 1440.0,
+        "costo_compra_sin_iva": 1324.8,
+        "costo_compra_con_iva": 1463.9
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Proximamente",
+      "notas": ""
+    },
+    {
+      "id": "Accesorios_Compresores_a_Tornillo_Tanque_vertical_300L_para_CLTO",
+      "familia": "Accesorios Compresores a Tornillo",
+      "modelo": "Tanque vertical 300L para CLTO",
+      "especificaciones": {
+        "descripcion": "Incluye manometro, valvula de seguridad y llave de purga",
+        "iva": 21
+      },
+      "precios": {
+        "precio_lista": 800,
+        "precio_con_bonificacion": 640.0,
+        "costo_compra_sin_iva": 588.8,
+        "costo_compra_con_iva": 650.62
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Proximamente",
+      "notas": ""
+    },
+    {
+      "id": "Construcción_Vibroapisonador_RM80H",
+      "familia": "Construcción",
+      "modelo": "Vibroapisonador RM80H",
+      "especificaciones": {
+        "descripcion": "Motor HONDA 5,5 HP nafta 4 tiempos - Rango de percusion 450 - 650 golpes por min - Fuerza de impacto 1100 Kg. - Peso 85 Kg."
+      },
+      "precios": {
+        "precio_lista": 1630,
+        "precio_con_bonificacion": 1222.5,
+        "costo_compra_sin_iva": 1124.7,
+        "costo_compra_con_iva": 1242.79
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Construcción_Fratachadora_S100H",
+      "familia": "Construcción",
+      "modelo": "Fratachadora S100H",
+      "especificaciones": {
+        "descripcion": "Motor HONDA 6,5 HP nafta 4 tiempos - Diametro 1000 cm - Peso 116 Kg."
+      },
+      "precios": {
+        "precio_lista": 1150,
+        "precio_con_bonificacion": 862.5,
+        "costo_compra_sin_iva": 793.5,
+        "costo_compra_con_iva": 876.82
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Construcción_Plancha_vibradora_C95TH",
+      "familia": "Construcción",
+      "modelo": "Plancha vibradora C95TH",
+      "especificaciones": {
+        "descripcion": "Motor HONDA 6,5 HP nafta 4 tiempos - Frecuencia 48Hz - Rango de vibracion 3mm - Fuerza de vibracion 16Kn - Peso 144Kg."
+      },
+      "precios": {
+        "precio_lista": 970,
+        "precio_con_bonificacion": 727.5,
+        "costo_compra_sin_iva": 669.3,
+        "costo_compra_con_iva": 739.58
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Construcción_Cortadora_de_concreto_Q400",
+      "familia": "Construcción",
+      "modelo": "Cortadora de concreto Q400",
+      "especificaciones": {
+        "descripcion": "Motor LIFAN 13 HP nafta 4 tiempos - Profundidad de corte 180mm - Diametro de disco 12 / 16'' - Peso 160 Kg."
+      },
+      "precios": {
+        "precio_lista": 1235,
+        "precio_con_bonificacion": 926.25,
+        "costo_compra_sin_iva": 852.15,
+        "costo_compra_con_iva": 941.63
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Construcción_Rodillo_compactador_RCL641",
+      "familia": "Construcción",
+      "modelo": "Rodillo compactador RCL641",
+      "especificaciones": {
+        "descripcion": "Motor HONDA GX160 5.5HP nafta 4 tiempos - arranque manual - 13.5KN - 1 ROLO 400X600"
+      },
+      "precios": {
+        "precio_lista": 3800,
+        "precio_con_bonificacion": 2850.0,
+        "costo_compra_sin_iva": 2622.0,
+        "costo_compra_con_iva": 2897.31
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Construcción_Rodillo_compactador_RCL642",
+      "familia": "Construcción",
+      "modelo": "Rodillo compactador RCL642",
+      "especificaciones": {
+        "descripcion": "Motor HONDA GX390 13HP nafta - arranque ELECTRICO - Transmision HIDRAULICA - 20KN - 2 ROLOS 400X650"
+      },
+      "precios": {
+        "precio_lista": 7800,
+        "precio_con_bonificacion": 5850.0,
+        "costo_compra_sin_iva": 5382.0,
+        "costo_compra_con_iva": 5947.11
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Construcción_Vibrador_de_concreto_VCML",
+      "familia": "Construcción",
+      "modelo": "Vibrador de concreto VCML",
+      "especificaciones": {
+        "descripcion": "Motor LIFAN GX390 13HP nafta 4 tiempos"
+      },
+      "precios": {
+        "precio_lista": 270,
+        "precio_con_bonificacion": 202.5,
+        "costo_compra_sin_iva": 186.3,
+        "costo_compra_con_iva": 205.86
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Construcción_Cabezal_/_Manguera_38MM",
+      "familia": "Construcción",
+      "modelo": "Cabezal / Manguera 38MM",
+      "especificaciones": {
+        "descripcion": "38MM - 6 METROS"
+      },
+      "precios": {
+        "precio_lista": 135,
+        "precio_con_bonificacion": 101.25,
+        "costo_compra_sin_iva": 93.15,
+        "costo_compra_con_iva": 102.93
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Construcción_Cabezal_/_Manguera_45MM",
+      "familia": "Construcción",
+      "modelo": "Cabezal / Manguera 45MM",
+      "especificaciones": {
+        "descripcion": "45MM - 6 METROS"
+      },
+      "precios": {
+        "precio_lista": 140,
+        "precio_con_bonificacion": 105.0,
+        "costo_compra_sin_iva": 96.6,
+        "costo_compra_con_iva": 106.74
+      },
+      "descuentos": {
+        "bonificacion_general": 25,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Torres_de_Iluminación_Atlas_Copco_V5_+_NEO_ROW",
+      "familia": "Torres de Iluminación Atlas Copco",
+      "modelo": "V5 + NEO ROW",
+      "especificaciones": {
+        "cobertura_luz": "5000 m²",
+        "eficiencia_combustible": "0,7 lt/h",
+        "flujo_luminoso": "155 lm",
+        "autonomia": "177-180 h",
+        "nivel_ruido": "88 dB",
+        "capacidad_tanque": "110 L",
+        "altura_elevacion": "7 m",
+        "motor": "Kubota Z482",
+        "peso": "704 kg"
+      },
+      "precios": {
+        "precio_lista": 20245,
+        "precio_con_bonificacion": 16196.0,
+        "costo_compra_sin_iva": 14900.32,
+        "costo_compra_con_iva": 16464.85
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    },
+    {
+      "id": "Torres_de_Iluminación_Atlas_Copco_V7_+_ROW",
+      "familia": "Torres de Iluminación Atlas Copco",
+      "modelo": "V7 + ROW",
+      "especificaciones": {
+        "cobertura_luz": "7260 m²",
+        "eficiencia_combustible": "0,62 lt/h",
+        "flujo_luminoso": "210 lm",
+        "autonomia": "142 h",
+        "nivel_ruido": "88 dB",
+        "capacidad_tanque": "110 L",
+        "altura_elevacion": "7,5 m",
+        "motor": "Kubota Z482",
+        "peso": "704 kg"
+      },
+      "precios": {
+        "precio_lista": 22826,
+        "precio_con_bonificacion": 18260.8,
+        "costo_compra_sin_iva": 16799.94,
+        "costo_compra_con_iva": 18563.93
+      },
+      "descuentos": {
+        "bonificacion_general": 20,
+        "descuento_contado": 8,
+        "iva": 10.5
+      },
+      "financiacion": "Cheques 0-30-60-90",
+      "disponibilidad": "Disponible",
+      "notas": ""
+    }
+  ]
+}

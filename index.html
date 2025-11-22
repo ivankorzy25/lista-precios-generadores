@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Precios - GENERADORES EN LÍNEA</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+</head>
+<body>
+    <!-- PANTALLA DE LOGIN -->
+    <div id="loginScreen" class="screen active">
+        <div class="login-container">
+            <img src="assets/logo.png" alt="KOR Logo" class="login-logo">
+            <h1>Lista de Precios</h1>
+            <h2>GENERADORES EN LÍNEA</h2>
+            <form id="loginForm">
+                <div class="input-group">
+                    <label for="username">Usuario</label>
+                    <input type="text" id="username" required autocomplete="username">
+                </div>
+                <div class="input-group">
+                    <label for="password">Contraseña</label>
+                    <input type="password" id="password" required autocomplete="current-password">
+                </div>
+                <button type="submit" class="btn btn-primary">Ingresar</button>
+                <div id="loginError" class="error-message"></div>
+            </form>
+        </div>
+    </div>
+
+    <!-- PANTALLA PRINCIPAL -->
+    <div id="mainScreen" class="screen">
+        <header>
+            <div class="header-content">
+                <img src="assets/logo.png" alt="KOR Logo" class="header-logo">
+                <div class="header-info">
+                    <h1>GENERADORES EN LÍNEA</h1>
+                    <p class="contact-info">
+                        <span>📞 +54 11 3956-3099</span>
+                        <span>✉️ info@generadores.ar</span>
+                        <span>🌐 www.generadores.ar</span>
+                    </p>
+                </div>
+                <div class="header-actions">
+                    <button id="adminBtn" class="btn btn-secondary">Panel Admin</button>
+                    <button id="exportBtn" class="btn btn-secondary">Exportar DB</button>
+                    <button id="logoutBtn" class="btn btn-outline">Salir</button>
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <div class="search-section">
+                <div class="search-container">
+                    <input type="text" id="searchInput" placeholder="Buscar por modelo, potencia, características...">
+                    <button id="searchBtn" class="btn btn-primary">Buscar</button>
+                    <button id="clearBtn" class="btn btn-outline">Limpiar</button>
+                </div>
+                <div class="filter-section">
+                    <label for="familyFilter">Filtrar por familia:</label>
+                    <select id="familyFilter">
+                        <option value="">Todas las familias</option>
+                    </select>
+                    <span id="resultCount" class="result-count"></span>
+                </div>
+            </div>
+
+            <div class="products-section">
+                <div id="familiesContainer"></div>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2025 GENERADORES EN LÍNEA - www.generadores.ar</p>
+            <p>Venta, alquiler y servicio técnico de grupos electrógenos</p>
+        </footer>
+    </div>
+
+    <!-- PANEL DE ADMINISTRACIÓN -->
+    <div id="adminScreen" class="screen">
+        <div class="admin-container">
+            <div class="admin-header">
+                <h2>Panel de Administración</h2>
+                <button id="closeAdminBtn" class="btn btn-outline">Cerrar</button>
+            </div>
+
+            <div id="adminLoginForm" class="admin-login">
+                <h3>Ingrese código de administrador</h3>
+                <input type="password" id="adminCode" placeholder="Código de acceso">
+                <button id="adminLoginBtn" class="btn btn-primary">Acceder</button>
+                <div id="adminError" class="error-message"></div>
+            </div>
+
+            <div id="adminPanel" class="admin-panel" style="display: none;">
+                <div class="admin-tabs">
+                    <button class="tab-btn active" data-tab="productos">Productos</button>
+                    <button class="tab-btn" data-tab="familias">Familias</button>
+                    <button class="tab-btn" data-tab="metadata">Metadata</button>
+                </div>
+
+                <div id="productosTab" class="tab-content active">
+                    <div class="admin-actions">
+                        <button id="addProductBtn" class="btn btn-primary">+ Agregar Producto</button>
+                        <button id="importProductsBtn" class="btn btn-secondary">Importar JSON</button>
+                    </div>
+                    <div id="productsList" class="items-list"></div>
+                </div>
+
+                <div id="familiasTab" class="tab-content">
+                    <div class="admin-actions">
+                        <button id="addFamilyBtn" class="btn btn-primary">+ Agregar Familia</button>
+                    </div>
+                    <div id="familiesList" class="items-list"></div>
+                </div>
+
+                <div id="metadataTab" class="tab-content">
+                    <form id="metadataForm" class="metadata-form">
+                        <div class="input-group">
+                            <label>Empresa</label>
+                            <input type="text" id="metaEmpresa">
+                        </div>
+                        <div class="input-group">
+                            <label>Website</label>
+                            <input type="text" id="metaWebsite">
+                        </div>
+                        <div class="input-group">
+                            <label>Email</label>
+                            <input type="email" id="metaEmail">
+                        </div>
+                        <div class="input-group">
+                            <label>Teléfono</label>
+                            <input type="text" id="metaTelefono">
+                        </div>
+                        <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- MODAL PARA EDITAR/AGREGAR PRODUCTO -->
+    <div id="productModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modalTitle">Agregar Producto</h3>
+                <button class="modal-close">&times;</button>
+            </div>
+            <form id="productForm">
+                <div class="form-grid">
+                    <div class="input-group">
+                        <label>Modelo *</label>
+                        <input type="text" id="prodModelo" required>
+                    </div>
+                    <div class="input-group">
+                        <label>Familia *</label>
+                        <select id="prodFamilia" required></select>
+                    </div>
+                    <div class="input-group">
+                        <label>Precio Lista (sin IVA) *</label>
+                        <input type="number" id="prodPrecio" step="0.01" required>
+                    </div>
+                    <div class="input-group">
+                        <label>IVA (%)</label>
+                        <input type="number" id="prodIva" step="0.1" value="10.5">
+                    </div>
+                    <div class="input-group">
+                        <label>Bonificación (%)</label>
+                        <input type="number" id="prodBonificacion" step="0.1" value="25">
+                    </div>
+                    <div class="input-group">
+                        <label>Desc. Contado (%)</label>
+                        <input type="number" id="prodDescContado" step="0.1" value="8">
+                    </div>
+                    <div class="input-group full-width">
+                        <label>Financiación</label>
+                        <input type="text" id="prodFinanciacion" value="Cheques 0-30-60-90">
+                    </div>
+                    <div class="input-group full-width">
+                        <label>Disponibilidad</label>
+                        <select id="prodDisponibilidad">
+                            <option value="Disponible">Disponible</option>
+                            <option value="Proximamente">Próximamente</option>
+                            <option value="SIN STOCK">Sin Stock</option>
+                            <option value="Consultar">Consultar</option>
+                        </select>
+                    </div>
+                </div>
+
+                <h4>Especificaciones Técnicas</h4>
+                <div id="specsContainer"></div>
+                <button type="button" id="addSpecBtn" class="btn btn-secondary btn-sm">+ Agregar Especificación</button>
+
+                <div class="modal-actions">
+                    <button type="submit" class="btn btn-primary">Guardar</button>
+                    <button type="button" class="btn btn-outline modal-cancel">Cancelar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
