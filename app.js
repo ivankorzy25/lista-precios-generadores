@@ -167,20 +167,38 @@ function handleAdminLogin() {
 
 // ============= NAVEGACIÓN DE PANTALLAS =============
 function showScreen(screenId) {
-    document.querySelectorAll('.screen').forEach(screen => {
+    console.log('Cambiando a pantalla:', screenId);
+    const screens = document.querySelectorAll('.screen');
+    console.log('Pantallas encontradas:', screens.length);
+
+    screens.forEach(screen => {
         screen.classList.remove('active');
     });
-    document.getElementById(screenId).classList.add('active');
+
+    const targetScreen = document.getElementById(screenId);
+    console.log('Pantalla objetivo encontrada:', targetScreen ? 'SI' : 'NO');
+
+    if (targetScreen) {
+        targetScreen.classList.add('active');
+        console.log('Pantalla activada:', screenId);
+    } else {
+        console.error('ERROR: No se encontró la pantalla con ID:', screenId);
+    }
 }
 
 function showLoginScreen() {
+    console.log('Mostrando pantalla de login');
     showScreen('loginScreen');
 }
 
 function showMainScreen() {
+    console.log('Mostrando pantalla principal');
     showScreen('mainScreen');
+    console.log('Renderizando productos...');
     renderProducts();
+    console.log('Poblando filtro de familias...');
     populateFamilyFilter();
+    console.log('Pantalla principal lista');
 }
 
 function showAdminPanel() {
